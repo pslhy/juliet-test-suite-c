@@ -1,0 +1,10 @@
+CMakeFiles
+.DS_Store
+bin
+testcases/**/CMakeCache.txt
+testcases/**/Makefile
+testcases/**/cmake_install.cmake
+testcases/**/CMakeFiles
+testcases/**/_codeql_build_dir
+testcases/**/CMakeLists.txt			
+testcases/**/_codeql_detected_source_root
